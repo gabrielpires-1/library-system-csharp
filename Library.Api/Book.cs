@@ -1,6 +1,6 @@
 namespace Library.Api;
 
-public class Book
+public record Book
 {
     
 
